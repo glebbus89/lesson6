@@ -1,0 +1,13 @@
+{
+"clientName":"AAAA BBBB", 
+"product":"CCCCCC", 
+"qnt":3,
+"price":102
+}
+{
+"id":"1",
+"clientName":"ddd ddd", 
+"product":"ddd", 
+"qnt":1,
+"price":1
+}
